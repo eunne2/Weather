@@ -1,12 +1,7 @@
 {
   "expo": {
-<<<<<<< HEAD
-    "name": "NomadWeather",
-    "slug": "NomadWeather",
-=======
     "name": "Weather",
     "slug": "Weather",
->>>>>>> 53d1a89a4df715c6955a7e928ac494c8118da362
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

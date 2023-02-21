@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+  "name": "nomadweather",
+=======
   "name": "weather",
+>>>>>>> 53d1a89a4df715c6955a7e928ac494c8118da362
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -14,8 +18,13 @@
     "react": "18.1.0",
     "react-native": "0.70.5",
     "react-native-web": "~0.18.9",
+<<<<<<< HEAD
+    "@expo/webpack-config": "^0.17.2",
+    "react-dom": "18.1.0"
+=======
     "react-dom": "18.1.0",
     "@expo/webpack-config": "^0.17.2"
+>>>>>>> 53d1a89a4df715c6955a7e928ac494c8118da362
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
